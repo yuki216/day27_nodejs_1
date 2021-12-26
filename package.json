@@ -1,0 +1,11 @@
+{
+  "name": "myhello",
+  "version": "1.0.0",
+  "description": "project awal",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Yuki Fachriansyah",
+  "license": "ISC"
+}
