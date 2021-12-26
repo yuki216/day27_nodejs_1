@@ -4,8 +4,12 @@
   "description": "project awal",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "live": "nodemon app.js"
   },
   "author": "Yuki Fachriansyah",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
